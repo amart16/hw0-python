@@ -1,3 +1,4 @@
+# Author: Alex Martin arm6554@psu.edu
 temp=float(input("Enter temperature: "))
 f=(temp*1.8)+32
 c=(temp-32)/1.8
